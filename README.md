@@ -75,6 +75,7 @@ The project includes:
 
 If you have any questions, feedback, or collaboration ideas, feel free to reach out to me through any of the following channels:
 
+- **Name:** Ayush
 - **Email:** [maryu.3738@gmail.com](mailto:maryu.3738@gmail.com)
 - **GitHub:** [mary0](https://github.com/mary0)
 - **LinkedIn:** [Ayush Kumar](https://www.linkedin.com/in/ayush-kumar-ab8a3a2ab/)
