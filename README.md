@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bankist UI 🏦
 
 **Bankist UI** is a modern, responsive user interface design for a fictional banking website. It focuses on delivering a smooth user experience with a clean, elegant design.
@@ -64,3 +65,6 @@ If you have any questions or would like to collaborate, please feel free to reac
 - Name: Ayush
 - Email: maryu.3738@gmail.com
 - Github: mary0
+=======
+# Bankist-app
+>>>>>>> 34cf0ffde1fe5349ab467daad7faae05e8d80559
