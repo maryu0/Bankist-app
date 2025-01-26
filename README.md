@@ -73,7 +73,7 @@ The project includes:
 
 ## Contact
 
-If you have any questions or would like to collaborate, please feel free to reach out to me at:
+If you have any questions, feedback, or collaboration ideas, feel free to reach out to me through any of the following channels:
 
 - Name: Ayush
 - Email: maryu.3738@gmail.com
