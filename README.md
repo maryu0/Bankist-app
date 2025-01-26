@@ -63,6 +63,14 @@ The project includes:
 - **Username**: `ak`
 - **Pin**: `1212`
 
+5. Available Features:
+
+- **Account Overview**: View your account balance and transaction history.
+- **Loan**: Apply for a loan with a fixed interest rate.
+- **Transfer**: Send money to other users.
+- **Request Money**: Request money from other users.
+- **Change Pin**: Update your pin for added security.
+
 ## Contact
 
 If you have any questions or would like to collaborate, please feel free to reach out to me at:
