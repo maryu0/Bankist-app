@@ -75,6 +75,5 @@ The project includes:
 
 If you have any questions, feedback, or collaboration ideas, feel free to reach out to me through any of the following channels:
 
-- Name: Ayush
-- Email: maryu.3738@gmail.com
+- 📧 Email: maryu.3738@gmail.com
 - Github: mary0
