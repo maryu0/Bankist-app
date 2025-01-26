@@ -76,4 +76,4 @@ The project includes:
 If you have any questions, feedback, or collaboration ideas, feel free to reach out to me through any of the following channels:
 
 - 📧 Email: maryu.3738@gmail.com
-- Github: mary0
+- 💻 GitHub: mary0
