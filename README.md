@@ -46,6 +46,23 @@ The project includes:
 
 ---
 
+## How to Use
+
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/yourusername/bankist-ui.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd bankist-ui
+   ```
+3. Open the index.html file in your favorite browser to start using the Bankist UI.
+
+4. Use the following credentials:
+
+- **Username**: `ak`
+- **Pin**: `1212`
+
 ## Contact
 
 If you have any questions or would like to collaborate, please feel free to reach out to me at:
