@@ -1,6 +1,6 @@
 # Bankist UI 🏦
 
-**Bankist UI** is a modern, responsive user interface design for a fictional banking website. It focuses on delivering a smooth user experience with a clean, elegant design.
+**Bankist UI** is a sleek and modern user interface designed for a fictional banking platform. Built with a focus on responsiveness and user experience, it combines elegance with functionality to deliver a seamless and intuitive banking experience. Whether you're managing accounts, navigating features, or exploring animations, **Bankist UI** ensures every interaction feels smooth and engaging.
 
 ---
 
