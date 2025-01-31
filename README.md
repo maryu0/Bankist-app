@@ -56,7 +56,7 @@ The project includes:
    ```bash
    cd bankist
    ```
-3. Open the index.html file in your favorite browser to start using the Bankist UI.
+3. Open the index.html file in your desired browser to start using the Bankist UI.
 
 4. Use the following credentials:
 
