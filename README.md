@@ -58,7 +58,7 @@ The project includes:
    ```
 3. Open the index.html file in your desired browser to start using the Bankist UI.
 
-4. Use the following credentials:
+4. Use the following credentials to test the UI:
 
 - **Username**: `ak`
 - **Pin**: `1212`
