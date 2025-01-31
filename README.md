@@ -54,7 +54,7 @@ The project includes:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd bankist-ui
+   cd bankist
    ```
 3. Open the index.html file in your favorite browser to start using the Bankist UI.
 
