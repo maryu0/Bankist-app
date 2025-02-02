@@ -68,7 +68,7 @@
 - **Loan**: Apply for a loan with a fixed interest rate.
 - **Transfer**: Send money securely to other users.
 - **Request Money**: Request money from other users.
-- **Change Pin**: Update your pin for added security.
+- **Change Pin**: Update your security credentials.
 
 ## Contact
 
