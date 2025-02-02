@@ -62,7 +62,7 @@
 - **Username**: `ak`
 - **Pin**: `1212`
 
-5. Available Features:
+5. Available Functionalities:
 
 - **Account Overview**: View your account balance and transaction history.
 - **Loan**: Apply for a loan with a fixed interest rate.
