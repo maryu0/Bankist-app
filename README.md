@@ -66,7 +66,7 @@
 
 - **Account Overview**: View your account balance and transaction history.
 - **Loan**: Apply for a loan with a fixed interest rate.
-- **Transfer**: Send money to other users.
+- **Transfer**: Send money securely to other users.
 - **Request Money**: Request money from other users.
 - **Change Pin**: Update your pin for added security.
 
