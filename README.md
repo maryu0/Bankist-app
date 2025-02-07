@@ -74,7 +74,7 @@
 
 For any questions, feedback, or collaboration opportunities, feel free to reach out:
 
-- **Name:** Ayush
+- **Name:** Ayush(@maryu0)
 - **Email:** [maryu.3738@gmail.com](mailto:maryu.3738@gmail.com)
 - **GitHub:** [mary0](https://github.com/mary0)
 - **LinkedIn:** [Ayush Kumar](https://www.linkedin.com/in/ayush-kumar-ab8a3a2ab/)
