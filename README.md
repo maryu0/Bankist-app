@@ -29,7 +29,7 @@
 
 ## 🚀 Features
 
-- 🌟 **Modern & Responsive** — Works smoothly across all devices
+- 🌟 **Modern & Responsive** — Works smoothly across all devices.
 - 🖱️ **Intuitive Navigation** — Easy-to-use interface for seamless interactions
 - 🎨 **Dynamic Animations** — Enhancing user engagement
 - 🔄 **Interactive Functionalities** — Loan applications, transactions, and more
